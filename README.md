@@ -1,5 +1,5 @@
 # PictureSimplify
 Remove useless data from picture
 
-# Support
+## Support
 PNG (More in the future)
